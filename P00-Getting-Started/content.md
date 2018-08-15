@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with Orange Tree!"
+title: Getting Started with Orange Tree!
 slug: getting-started
 ---
 
