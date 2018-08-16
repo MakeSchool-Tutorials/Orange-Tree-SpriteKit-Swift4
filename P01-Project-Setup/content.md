@@ -27,4 +27,4 @@ slug: project-setup
 
 Awesome! Now that we have our project set up and our assets in place, we can start working on our Angry Birds clone.
 before we move on though, let's build our porject to make sure everything is setup okay so far. Use `CMD+B` to build the project
-wihtout running it. If your project finished building with no errors you are ready to move on to the next section!
+without running it. If your project finished building with no errors you are ready to move on to the next section!
