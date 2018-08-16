@@ -10,7 +10,7 @@ Before we can do that we need to set up our scene and get some basic assets in p
 > Let's start by removing the `Actions.sks` file.
 
 Great! Now let's do some configuration of our scene. Orange Tree will be played in *landscape* mode, just like Angry Birds.
-We need to change a setting in our project file to ensure our game does not try and run in *portrait* mode by mistake.
+You need to change a setting in your project file to ensure your game does not try and run in *portrait* mode by mistake.
 
 > [action]
 > Open the project file (the top one in your project tree). Go to *Deployment Info* and uncheck the *portrait* setting
