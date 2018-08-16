@@ -4,7 +4,7 @@ slug: setting-the-scene
 ---
 
 I'm sure you are as excited as I am to start flinging oranges around, I mean who wouldn't want to fling 'em!
-Before we can do that though we need to set up our scene and get some basic assets in place.
+Before we can do that we need to set up our scene and get some basic assets in place.
 
 > [action]
 > Let's start by removing the `Actions.sks` file.
