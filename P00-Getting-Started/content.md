@@ -13,6 +13,7 @@ Throughout this tutorial you will learn many concepts including how to:
 - Effectively use SpriteKit to rapidly prototype a game
 - Build levels using multiple scene files
 - Add simple visual effects
+- How to work with the built in physics engine
 
 <!-- The above section needs to be expanded. Maybe once the tutorial is finished? It's a bit unclear at this stage. -->
 
