@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Orange Tree!
-slug: getting-started
+slug: getting-started-with-orange-tree
 ---
 
 In this tutorial you will build Orange Tree -- a clone of the popular mobile game [Angry Birds](https://itunes.apple.com/us/app/ab-classic/id343200656). 
