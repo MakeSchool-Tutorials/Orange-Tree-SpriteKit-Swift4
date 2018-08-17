@@ -3,7 +3,7 @@ title: Setting the Scene
 slug: setting-the-scene
 ---
 
-I'm sure you are as excited to start flinging oranges around, I mean who wouldn't want to fling 'em!
+I'm sure you are excited to start flinging oranges around, I mean who wouldn't want to fling 'em!
 Before you can do that though, you need to set up the scene and get some basic assets in place.
 
 > [action]
