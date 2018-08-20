@@ -18,9 +18,9 @@ you don't need, but is great for seeing how some basic actions work.
 >
 ```
 import SpriteKit
-
+>
 class GameScene: SKScene {
-
+>
 }
 ```
 >
@@ -47,7 +47,7 @@ will be created using code, in a custom class called *Orange*.
 >
 ```
 import SpriteKit
-
+>
 class Orange: SKSpriteNode {
   init() {
     let texture = SKTexture(imageNamed: "Orange")
@@ -58,7 +58,7 @@ class Orange: SKSpriteNode {
     
     physicsBody = SKPhysicsBody(circleOfRadius: size.width / 2)
   }
-  
+>
   required init?(coder aDecoder: NSCoder) {
     fatalError("init(coder:) has not been implemented")
   }
