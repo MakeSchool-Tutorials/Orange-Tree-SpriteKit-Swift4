@@ -1,6 +1,6 @@
 ---
 title: Project Setup
-slug: project-setup
+slug: xcode-project-setup
 ---
 
 ## Create a New Xcode Project
