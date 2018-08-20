@@ -216,4 +216,6 @@ Aweome job! In this section you learned how to:
 - Handle collisons between two nodes
 - Use *Class Extensions* in Swift
 - Build up a level using *sks* files
-- Load different levels
+
+In the next section you are going to learn how to improve your scene, the gameplay mechanic, and
+how to make and load a different level!
