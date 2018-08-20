@@ -31,7 +31,7 @@ you can finish the setup.
 > You should also change the *Anchor Point* to `(0,0)`.
 > ![Attributes inspector](./assets/attributes_inspector.png)
 
-## Your First Assets
+# Your First Assets
 
 Right, now the scene is looking pretty boring. Luckily, you can change that pretty quickly
 since you already have some assets that were provided for you. You are going to set up the
@@ -47,7 +47,7 @@ background and the 'player', aka the orange tree, by placing them in the scene.
 > property to `ground`. If everything went well, your scene should now look like this.
 > ![Scene Background](./assets/scene_background.png)
 
-## Getting Down to Earth
+# Getting Down to Earth
 
 Now that you have some basic assets in the scene, you need to configure some special settings. 
 If you have ever played the game Angry Birds, you know that the objects in the game interact
@@ -116,7 +116,7 @@ detail later in the tutorial, so don't worry if you don't understand what they m
 > now. If you want to find out more about them, I encourage you to do some reading in the
 > [documentation](https://developer.apple.com/documentation/spritekit) to learn more about it.
 
-## Putting the Tree in Orange Tree
+# Putting the Tree in Orange Tree
 
 The last step for this section will be adding the Orange Tree!
 

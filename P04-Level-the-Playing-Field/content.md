@@ -3,7 +3,7 @@ title: Level the Playing Field
 slug: level-the-playing-field
 ---
 
-Looking at the current state of the game, it is possible to create and fling oranges arounf the
+Looking at the current state of the game, it is possible to create and fling oranges around the
 screen. At this point though, the game is kind of boring. It would be much more fun, and be more
 like Angry Birds, if there were some structures we could throw those oranges at. Let's add some
 blocks now and learn more about the physics engine!
@@ -11,7 +11,7 @@ blocks now and learn more about the physics engine!
 > [action]
 > Open *GameScene.sks* and locate the file in *assets.atlas* named `rectangle-1-120x20.png` and
 > drag it into the scene. Leave it at it's current rotation and move it to the position `(896,168)`.
-> Now to make sure that the orange can collide with, locate the *Physics Definition* section in the
+> Now to make sure that the orange can collide with it, locate the *Physics Definition* section in the
 > *Attributes Inspector* and give it a `Bounding Rectangle` for the *Body Type*. In this case, you
 > want to leave the default settings so that it is affected by gravity, can rotate, and is dynamic.
 > ![First Block Added](./assets/first_block.png)
@@ -56,7 +56,7 @@ you should turn off *Dynamic* if you don't need it. Let's do one more quick expe
 > is not allowed to rotate, it can only be pushed around by other nodes. This isn't really the behavior that
 > you want for your game though, so make sure to turn *Allows Rotation* back on before moving on.
 
-## Building a Tower
+# Building a Tower
 
 In this next section, you are going to build up a tower to make this game a little more fun! Knocking one block
 over is cool, for maybe 10 seconds. If you want to copy a block that is already in the scene, you can click on
@@ -70,7 +70,7 @@ of the block around (including your *Physics Definition*).
 
 Once you have built your tower, have a little fun and knock it down!
 
-## Making a Goal
+# Making a Goal
 
 Your game is starting to look better and the core mechanic of the game is almost complete! You can fire oranges
 at blocks that you have placed in the scene. But, something is missing. If you think back to Angry Birds, how
@@ -143,7 +143,7 @@ Wow! Your tower just fell through the bottom of the level right! Your tower fell
 changed the *Category Mask* to `0`, you told the physics engine that the *ground* node should not interact
 with any other nodes. Make sure to reset the *Category Mask* before moving on!
 
-## Creating Contact
+# Creating Contact
 
 At this point everything is almost set up to be able to destroy those pesky skulls! You have set up your
 *Skull* so that the physics engine knows when it will collide with other objects, now you need to write

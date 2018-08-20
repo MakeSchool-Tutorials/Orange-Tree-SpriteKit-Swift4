@@ -3,7 +3,9 @@ title: Project Setup
 slug: xcode-project-setup
 ---
 
-## Create a New Xcode Project
+In this section you are going to do some project setup in preparation for the rest of the tutorial.
+
+# Create a New Xcode Project
 
 > [action]
 > Create a new *Game* project in Xcode named `OrangeTree` and check that the *Language* is set
@@ -12,7 +14,7 @@ slug: xcode-project-setup
 >
 > ![Xcode new project](./assets/new_project_2.png)
 
-## Import Resources for Project
+# Import Resources for Project
 
 > [action]
 > Download the [Orange Tree assets](https://github.com/MakeSchool-Tutorials/Orange-Tree-SpriteKit-Swift4/raw/master/assets.atlas.zip)

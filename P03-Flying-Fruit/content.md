@@ -7,7 +7,7 @@ In this section you are going to create the flying oranges that will be fired fr
 the tree. By the end, you will have a system in place to fling oranges around the
 screen!
 
-## Code Cleanup
+# Code Cleanup
 
 Before you begin adding the orange, you need to do a little cleanup of auto generated
 code. When you create a new SpriteKit project, Apple puts some code into the files that
@@ -35,7 +35,7 @@ You will be adding more to this file a little bit later on.
 Now the *GameViewController* will load the *GameScene* class defined in `GameScene.swift`
 with *GameScene.sks*.
 
-## Adding the Orange
+# Adding the Orange
 
 With that little bit of cleanup out of the way, you can now create the Orange! The Orange
 will be created using code, in a custom class called *Orange*.
@@ -96,7 +96,7 @@ when you want to define the physics, you have to create the physics body first.
 
 Alright, ready to fire some oranges?
 
-## Fire Away!
+# Fire Away!
 
 Lets add some code to fire those oranges!
 
@@ -175,7 +175,7 @@ where the oranges will fly, you need to go back and refactor some code.
 > projects. The key takeaway here is don't get so attached to your code that you are afraid to
 > go back and make it better!
 
-## Improving the Trajectory
+# Improving the Trajectory
 
 If you want to have a firing mechnaism that works similar to how Angry Birds works, you are
 going to need a way to aim those oranges. One way you can handle this is to create the Orange
@@ -286,7 +286,7 @@ the vector you created as an impulse to the Orange.
 
 Go ahead and run the game and watch your citrus fly!
 
-## Houston, We Have a Problem!
+# Houston, We Have a Problem!
 
 Awesome, those oranges really fly now huh! But there is a slight problem. It is really hard to tell
 where those oranges are going to go. A great way to make this better would be to show the launch
