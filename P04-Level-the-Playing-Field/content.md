@@ -137,7 +137,7 @@ at how this works in your scene.
 > [action]
 > Click on the *ground* node and under the *Physics Definition* locate the *Category Mask*. Click the up
 > arrow so that the number is now `0`. Now run your game and see what happens.
-> ![Ground Mask Changed](./assets/ground_mask_2.png)
+> ![Ground Mask Changed](./assets/ground_masks_2.png)
 
 Wow! Your tower just fell through the bottom of the level right! Your tower fell through because when you
 changed the *Category Mask* to `0`, you told the physics engine that the *ground* node should not interact
