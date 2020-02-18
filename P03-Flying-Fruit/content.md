@@ -47,7 +47,6 @@ will be created using code, in a custom class called *Orange*.
 >
 ```
 import SpriteKit
->
 class Orange: SKSpriteNode {
   init() {
     let texture = SKTexture(imageNamed: "Orange")
