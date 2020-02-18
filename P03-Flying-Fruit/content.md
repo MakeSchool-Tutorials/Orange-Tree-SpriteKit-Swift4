@@ -58,7 +58,6 @@ class Orange: SKSpriteNode {
     
     physicsBody = SKPhysicsBody(circleOfRadius: size.width / 2)
   }
->
   required init?(coder aDecoder: NSCoder) {
     fatalError("init(coder:) has not been implemented")
   }
